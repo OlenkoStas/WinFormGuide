@@ -1,0 +1,20 @@
+C:\Users\Olga\source\repos\Guide\Guide\bin\Debug\Guide.exe.config
+C:\Users\Olga\source\repos\Guide\Guide\bin\Debug\Guide.exe
+C:\Users\Olga\source\repos\Guide\Guide\bin\Debug\Guide.pdb
+C:\Users\Olga\source\repos\Guide\Guide\obj\Debug\Guide.csprojAssemblyReference.cache
+C:\Users\Olga\source\repos\Guide\Guide\obj\Debug\Guide.Form1.resources
+C:\Users\Olga\source\repos\Guide\Guide\obj\Debug\Guide.Properties.Resources.resources
+C:\Users\Olga\source\repos\Guide\Guide\obj\Debug\Guide.csproj.GenerateResource.cache
+C:\Users\Olga\source\repos\Guide\Guide\obj\Debug\Guide.csproj.CoreCompileInputs.cache
+C:\Users\Olga\source\repos\Guide\Guide\obj\Debug\Guide.exe
+C:\Users\Olga\source\repos\Guide\Guide\obj\Debug\Guide.pdb
+F:\C#\Windows Form\Guide   (Treeview,Listview)\Guide\bin\Debug\Guide.exe.config
+F:\C#\Windows Form\Guide   (Treeview,Listview)\Guide\bin\Debug\Guide.exe
+F:\C#\Windows Form\Guide   (Treeview,Listview)\Guide\bin\Debug\Guide.pdb
+F:\C#\Windows Form\Guide   (Treeview,Listview)\Guide\obj\Debug\Guide.csprojAssemblyReference.cache
+F:\C#\Windows Form\Guide   (Treeview,Listview)\Guide\obj\Debug\Guide.Form1.resources
+F:\C#\Windows Form\Guide   (Treeview,Listview)\Guide\obj\Debug\Guide.Properties.Resources.resources
+F:\C#\Windows Form\Guide   (Treeview,Listview)\Guide\obj\Debug\Guide.csproj.GenerateResource.cache
+F:\C#\Windows Form\Guide   (Treeview,Listview)\Guide\obj\Debug\Guide.csproj.CoreCompileInputs.cache
+F:\C#\Windows Form\Guide   (Treeview,Listview)\Guide\obj\Debug\Guide.exe
+F:\C#\Windows Form\Guide   (Treeview,Listview)\Guide\obj\Debug\Guide.pdb
